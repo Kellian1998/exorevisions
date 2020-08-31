@@ -1,16 +1,3 @@
-class Player {    
-  nom;
-  xp;
-  pseudo;
-  avatar;
-constructor(n, x, p, a) {
-  this.nom = n;
-  this.xp = x;
-  this.pseudo = p;
-  this.avatar = a;
-}
-}
-
 let player = "json/player.json";
 
 fetch(player)
@@ -34,8 +21,6 @@ fetch(player)
             document
                 .body
                 .insertBefore(newPlayer, currentDiv);
-
-                let player = new Player(player[nb].Nom, player[nb].Xp, player[nb].Pseudo, player[nb].Avatar)
         }
     })
     .catch((err) => {
