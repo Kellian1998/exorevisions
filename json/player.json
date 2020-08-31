@@ -1,0 +1,23 @@
+[
+    {
+        "Nom": "Rémi Casty",
+        "Xp": 80,
+        "Pseudo": "Player1",
+        "Avatar": "https://www.ffr13.fr/wp-content/uploads/1985/02/R%C3%A9mi-Casty.jpg"
+    }, {
+        "Nom": "Israel Folau",
+        "Xp": 85,
+        "Pseudo": "Player2",
+        "Avatar": "https://s.yimg.com/ny/api/res/1.2/QQaIBMmm5QmT68E9KAIgXg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-02/c4bde660-49fb-11ea-becd-ed33bb8b4cbd"
+    }, {
+        "Nom": "James Maloney",
+        "Xp": 87,
+        "Pseudo": "Player3",
+        "Avatar": "https://i.ytimg.com/vi/SGSpnFxyEfA/maxresdefault.jpg"
+    }, {
+        "Nom": "Fouad Yaha",
+        "Xp": 75,
+        "Pseudo": "Player4",
+        "Avatar": "https://www.ffr13.fr/wp-content/uploads/2018/09/fouad.jpg"
+    }
+]
