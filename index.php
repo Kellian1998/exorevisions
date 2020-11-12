@@ -9,6 +9,8 @@
 <body>
 <h1>TEST</h1>
 
+    <!-- commit de marie -->
+    
 <script type="text/javascript" src="json/player.json"></script>
 <script type="text/javascript" src="javascript/javascript.js"></script>    
 </body>
