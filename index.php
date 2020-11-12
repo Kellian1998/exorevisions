@@ -8,7 +8,11 @@
 </head>
 <body>
 <h1>TEST</h1>
+<<<<<<< HEAD
 enzo le plus beau 
+=======
+fghjk
+>>>>>>> b78669ce3991fe611de054273fc175d85ee9ccf3
     <!-- commit de marie -->
     
 <script type="text/javascript" src="json/player.json"></script>
